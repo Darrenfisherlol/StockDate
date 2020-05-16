@@ -1,0 +1,27 @@
+body {
+
+    /* tag name ^ */
+
+    background: whitesmoke;
+    font-family: Arial;
+}
+
+/* header and list */
+
+h1, h2, li {
+    color: #000;
+}
+
+/*Title */
+a {
+    color: #858;
+}
+
+/* Paragraph*/
+
+p {
+background: #666;
+color: azure;
+padding: 10px 0px;
+/* top right bot left for padding*/
+}
